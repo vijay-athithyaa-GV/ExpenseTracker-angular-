@@ -1,0 +1,14 @@
+{
+    "expenses":[
+        {"id":1,"title":"restaurant","category":"food","amount":50,"date":"2023-10-01"},
+        {"id":2,"title":"groceries","category":"food","amount":100,"date":"2023-10-02"},
+        {"id":3,"title":"bus ticket","category":"transport","amount":20,"date":"2023-10-03"},
+        {"id":4,"title":"movie ticket","category":"entertainment","amount":15,"date":"2023-10-04"},
+        {"id":5,"title":"gym membership","category":"health","amount":30,"date":"2023-10-05"},
+        {"id":6,"title":"book","category":"education","amount":25,"date":"2023-10-06"},
+        {"id":7,"title":"coffee","category":"food","amount":5,"date":"2023-10-07"},
+        {"id":8,"title":"taxi ride","category":"transport","amount":15,"date":"2023-10-08"},
+        {"id":9,"title":"concert ticket","category":"entertainment","amount":60,"date":"2023-10-09"},
+        {"id":10,"title":"doctor appointment","category":"health","amount":40,"date":"2023-10-10"}
+    ]
+}
