@@ -9,6 +9,26 @@
         {"id":7,"title":"coffee","category":"food","amount":5,"date":"2023-10-07"},
         {"id":8,"title":"taxi ride","category":"transport","amount":15,"date":"2023-10-08"},
         {"id":9,"title":"concert ticket","category":"entertainment","amount":60,"date":"2023-10-09"},
-        {"id":10,"title":"doctor appointment","category":"health","amount":40,"date":"2023-10-10"}
+        {"id":10,"title":"doctor appointment","category":"health","amount":40,"date":"2023-10-10"},
+        {"id":11,"title":"online course","category":"education","amount":100,"date":"2023-10-11"},
+        {"id":12,"title":"snacks","category":"food","amount":10,"date":"2023-10-12"},
+        {"id":13,"title":"fuel","category":"transport","amount":70,"date":"2023-10-13"},
+        {"id":14,"title":"theater ticket","category":"entertainment","amount":25,"date":"2023-10-14"},
+        {"id":15,"title":"health insurance","category":"health","amount":200,"date":"2023-10-15"},
+        {"id":16,"title":"language course","category":"education","amount":150,"date":"2023-10-16"},
+        {"id":17,"title":"lunch","category":"food","amount":20,"date":"2023-10-17"},
+        {"id":18,"title":"train ticket","category":"transport","amount":30,"date":"2023-10-18"},
+        {"id":19,"title":"amusement park","category":"entertainment","amount":80,"date":"2023-10-19"},
+        {"id":20,"title":"physiotherapy","category":"health","amount":60,"date":"2023-10-20"}, 
+        {"id":21,"title":"coding bootcamp","category":"education","amount":200,"date":"2023-10-21"},
+        {"id":22,"title":"dinner","category":"food","amount":40,"date":"2023-10-22"},
+        {"id":23,"title":"car maintenance","category":"transport","amount":150,"date":"2023-10-23"},
+        {"id":24,"title":"comedy show","category":"entertainment","amount":35,"date":"2023-10-24"},
+        {"id":25,"title":"health checkup","category":"health","amount":80,"date":"2023-10-25"},
+        {"id":26,"title":"math tutor","category":"education","amount":120,"date":"2023-10-26"},
+        {"id":27,"title":"breakfast","category":"food","amount":15,"date":"2023-10-27"},
+        {"id":28,"title":"bus pass","category":"transport","amount":25,"date":"2023-10-28"},
+        {"id":29,"title":"art exhibition","category":"entertainment","amount":45,"date":"2023-10-29"},
+        {"id":30,"title":"dentist visit","category":"health","amount":90,"date":"2023-10-30"}
     ]
 }
