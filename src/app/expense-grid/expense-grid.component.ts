@@ -42,4 +42,8 @@ export class ExpenseGridComponent {
   this.pageSize = event.pageSize;
   this.dataSource.paginator = this.paginator
   }
+
+  ngAfterViewInit(){
+    this.dataSource.paginator =  this.paginator; 
+  }
 }
